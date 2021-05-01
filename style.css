@@ -1,0 +1,38 @@
+.welcome_note{
+	font-family: Segoe UI, Tahoma;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 1.5em;
+	text-align: center;
+}
+.nav ul{
+	list-style-type: none;
+	margin-top: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.nav li{
+	float: left;
+}
+
+.nav li a{
+	display: block;
+	color: orange;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+ li a:hover {
+	border:1px solid orange;
+}
+
+.footer{
+	background-color: #330000;
+	color:white;
+	padding:10px;
+	height: 60px;
+	width: 100%;
+	margin-bottom: 10px;
+}
